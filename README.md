@@ -8,3 +8,10 @@ http://mdecourse.github.io/2018fall/
 設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki
 
 cpgx 網站: https://cpgx.kmol.info
+
+2018fall
+課程分組網站：https://mdecp2018.github.io/site-s40523118/content/index.html
+
+課程簡報：https://mdecp2018.github.io/site-s40523118/reveal/index.html#/
+
+課程部落格：https://mdecp2018.github.io/site-s40523118/blog/index.html
